@@ -1,5 +1,5 @@
-// URL del APK — reemplazar con el link de Supabase Storage cuando esté listo
-const APK_URL = '#';
+// URL del APK
+const APK_URL = 'https://github.com/Vladimirfv/Pagina-estatica-Auro/releases/download/v1.0.0/app-debug.apk';
 
 const btnDownload = document.getElementById('btn-download');
 
