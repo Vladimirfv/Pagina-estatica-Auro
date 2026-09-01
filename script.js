@@ -1,5 +1,5 @@
 // URL del APK
-const APK_URL = 'https://github.com/Vladimirfv/Pagina-estatica-Auro/releases/download/v1.0.1/AuroActu2.apk';
+const APK_URL = 'https://github.com/Vladimirfv/Pagina-estatica-Auro/releases/download/v1.0.1/AuroActu3.apk';
 
 const btnDownload = document.getElementById('btn-download');
 
